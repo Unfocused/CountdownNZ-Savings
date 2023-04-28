@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        Countdown NZ - Savings Percent
+// @name        CountdownNZ Savings Indicator
 // @description Find the best savings at Countdown.co.nz. Shows the percentage saved for items on sale, with a visual invidator for how good the discount is (deeper red means deeper savings)
 // @icon        https://www.countdown.co.nz/favicon.ico
 // @namespace   github.com/Unfocused
-// @homepageURL https://github.com/Unfocused/CountdownNZ-Savings
-// @downloadURL https://raw.githubusercontent.com/Unfocused/CountdownNZ-Savings/main/countdownnz-savings.user.js
+// @homepageURL https://github.com/Unfocused/CountdownNZ-Savings-Indicator
+// @downloadURL https://raw.githubusercontent.com/Unfocused/CountdownNZ-Savings-Indicator/main/countdownnz-savings-indicator.user.js
 // @version     1.20230428
 // @author      Unfocused
 // @license     MIT

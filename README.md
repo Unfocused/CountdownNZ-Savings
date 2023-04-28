@@ -16,4 +16,4 @@ This requires a a browser extension to run userscripts. Recommended options are:
 
 Once you have an extension installed, you can install the script by opening:
 
-- <https://raw.githubusercontent.com/Unfocused/CountdownNZ-Savings/main/countdownnz-savings-indicator.user.js>
+- <https://raw.githubusercontent.com/Unfocused/CountdownNZ-Savings-Indicator/main/countdownnz-savings-indicator.user.js>
